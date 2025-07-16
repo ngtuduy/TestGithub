@@ -16,3 +16,8 @@ int main() {
     }
     return 0;
 }
+
+void test() {
+    // This function is intentionally left empty.
+    // It can be used for future testing purposes.
+}
