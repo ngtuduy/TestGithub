@@ -21,3 +21,8 @@ void test() {
     // This function is intentionally left empty.
     // It can be used for future testing purposes.
 }
+
+void cleanup() {
+    // This function is intentionally left empty.
+    // It can be used for future cleanup purposes.
+}
